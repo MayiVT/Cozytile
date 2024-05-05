@@ -1,4 +1,4 @@
-
+# DONT USE THIS PROJECT, IM TRYING TO FIX IT.
 <a href='#'><img align="center" src="./Assets/preview.png" alt="Cozytile"></a>
 
 
